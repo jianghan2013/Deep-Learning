@@ -1,6 +1,15 @@
 # Deep-Learning
  Deep Learning study group
-
+## Important things:
+- tips for kagglers
+	- https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/
+	- Beating Kaggle the Easy Way - Dong Ying http://www.ke.tu-darmstadt.de/lehre/arbeiten/studien/2015/Dong_Ying.pdf
+	- Key concepts:
+		- feature engineering
+		- XGBoost
+		- ensemble
+		- pipeline
+ 
 ## Week1 (11/17/2017-11/24/2017)
 - Standford CNN course. Module 2: Convolutional Neural Networks. 
 	- Module 2 notes: http://cs231n.github.io/convolutional-networks/
